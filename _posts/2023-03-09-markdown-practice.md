@@ -53,4 +53,7 @@ This is an example of a single *italicized text* inside of a sentence.
 
 [Google](https://www.google.com)
 
- ![alt text](https://t4.ftcdn.net/jpg/03/47/30/79/240_F_347307999_GuDqoTSyZxMcCOfiByFzimXvj1gr48jA.jpg)
+ ![alt text][Neo City Image]
+
+
+[Neo City Image]: https://t4.ftcdn.net/jpg/03/47/30/79/240_F_347307999_GuDqoTSyZxMcCOfiByFzimXvj1gr48jA.jpg
