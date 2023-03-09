@@ -47,13 +47,18 @@ This is an example of a single *italicized text* inside of a sentence.
 - Things to do 9
 - Things to do 10
 
- 'System.out.println("Hello World");'
+ 'Java
+ public class Main {
+  public static void main(String[] args) {
+    System.out.println("Hello World!");
+  }
+ }'
 
  ---
 
-[Google](https://www.google.com)
+[Google][Google]
 
- ![alt text][Neo City Image]
+ ![alt text][Neo City New York Image]
 
-
-[Neo City Image]: https://t4.ftcdn.net/jpg/03/47/30/79/240_F_347307999_GuDqoTSyZxMcCOfiByFzimXvj1gr48jA.jpg
+[Google]: https://www.google.com
+[Neo City New York Image]: https://t4.ftcdn.net/jpg/03/47/30/79/240_F_347307999_GuDqoTSyZxMcCOfiByFzimXvj1gr48jA.jpg
